@@ -13,8 +13,6 @@ try({
     remove.packages("arrow")
   }
   
-  
-  
   outcome <- commandArgs(trailingOnly = TRUE)
   
   sets <- list()
